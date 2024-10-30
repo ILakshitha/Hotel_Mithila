@@ -58,12 +58,13 @@ export default function Home() {
 
               <Box
                 sx={{
+                  
 
                   width: 900,
                   height: 900,
                   borderRadius: 100,
                   //bgcolor: '#0f1e64',
-                  backgroundImage: `url(${madhack})`, // Add your image URL here
+                  // backgroundImage: `url(${madhack})`, // Add your image URL here
                   backgroundSize: '500px', // Ensures the image covers the entire box
                   backgroundPosition: 'center',
                   backgroundRepeat: 'no-repeat',

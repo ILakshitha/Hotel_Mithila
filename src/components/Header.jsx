@@ -7,7 +7,7 @@ import Button from '@mui/material/Button';
 import AdbIcon from '@mui/icons-material/Adb';
 import madhack from '../assets/Madhacklogo.svg';
 
-const pages = ['Home', 'About', 'TimeLine', 'Prizes', 'Faq'];
+const pages = ['Home', 'About', 'Rooms', 'Contact Us', 'Faq'];
 
 export default function Header({ scrollToSection }) {
   const [isActive, setIsActive] = React.useState('Home');
