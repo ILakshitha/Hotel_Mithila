@@ -24,10 +24,10 @@ export default function Home() {
       case 'About':
         aboutref.current.scrollIntoView({ behavior: 'smooth' });
         break;
-      case 'TimeLine':
+      case 'Rooms':
         timelineref.current.scrollIntoView({ behavior: 'smooth' });
         break;
-      case 'Prizes': // Fixed typo here
+      case 'Contact Us': // Fixed typo here
         prizeref.current.scrollIntoView({ behavior: 'smooth' });
         break;
       case 'Faq':
@@ -104,7 +104,7 @@ export default function Home() {
                   fontFamily: 'Times new roman'  // Set font family
                 }}
               >
-                Timeline
+                asdfghjqwerty
 
               </Typography>
             </div>
