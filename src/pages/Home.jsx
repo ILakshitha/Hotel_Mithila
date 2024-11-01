@@ -104,7 +104,7 @@ export default function Home() {
                   fontFamily: 'Times new roman'  // Set font family
                 }}
               >
-                asdfghjqwerty
+              
 
               </Typography>
             </div>
