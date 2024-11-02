@@ -12,6 +12,7 @@ export default function Faq() {
     const handleExpansion = () => {
         setExpanded((prevExpanded) => !prevExpanded);
     };
+    
 
     return (
         <div>

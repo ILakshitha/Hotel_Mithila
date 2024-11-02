@@ -12,6 +12,7 @@ const pages = ['Home', 'About', 'Rooms', 'Contact Us', 'Faq'];
 export default function Header({ scrollToSection }) {
   const [isActive, setIsActive] = React.useState('Home');
 
+  
   function handleNav(section) {
     setIsActive(section);
     scrollToSection(section);
