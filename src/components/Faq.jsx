@@ -77,7 +77,7 @@ export default function Faq() {
                     aria-controls="panel2-content"
                     id="panel2-header"
                 >
-                    <Typography>How can I register for MadHack 3.0?</Typography>
+                    <Typography>****************3.0?</Typography>
                 </AccordionSummary>
                 <AccordionDetails>
                     <Typography>
@@ -93,7 +93,7 @@ export default function Faq() {
                     aria-controls="panel2-content"
                     id="panel2-header"
                 >
-                    <Typography>Who can participate in MadHack 3.0?</Typography>
+                    <Typography>Wh**************?</Typography>
                 </AccordionSummary>
                 <AccordionDetails>
                     <Typography>
@@ -109,7 +109,7 @@ export default function Faq() {
                     aria-controls="panel2-content"
                     id="panel2-header"
                 >
-                    <Typography>Do I need a team to participate?</Typography>
+                    <Typography>Do I***************************</Typography>
                 </AccordionSummary>
                 <AccordionDetails>
                     <Typography>
@@ -126,7 +126,7 @@ export default function Faq() {
                     aria-controls="panel2-content"
                     id="panel2-header"
                 >
-                    <Typography>What if I'm a beginner in coding? Can I still participate?</Typography>
+                    <Typography>What if ***************+++++++++++?</Typography>
                 </AccordionSummary>
                 <AccordionDetails>
                     <Typography>
