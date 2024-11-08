@@ -130,8 +130,7 @@ export default function Faq() {
                 </AccordionSummary>
                 <AccordionDetails>
                     <Typography>
-                    Absolutely! MadHack 3.0 is designed for participants of all skill levels. It's a great opportunity for beginners 
-                    to learn and for experienced coders to showcase their expertise.
+                    Absolutely! MadHack 3.0 is designed for participants of all skill levels. 
                     </Typography>
                 </AccordionDetails>
             </Accordion>
